@@ -1,0 +1,37 @@
+.name-badge {
+    width: 320px;
+    height:210px;
+    background-color:red;
+    text-align:center;
+    font-size: 50px;
+    border-radius: 4%;
+    border-color: black;
+    border-width: 5px;
+    border-block-end-style: groove;
+}
+
+.my-name-is-text {
+    color:white;
+    font-family:sans-serif;
+    padding-bottom: 10px;
+}
+
+.hello-text {
+    color:white;
+    font-family: sans-serif;font-weight: bold;
+    padding-top: 5px;
+}
+.name {
+    font-weight: bold;
+    background-color:white;
+    padding-top: 10px;
+    padding: bottom 12px;
+    height: 60px;
+
+}
+.name-input {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+    
